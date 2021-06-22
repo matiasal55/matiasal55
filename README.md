@@ -1,6 +1,6 @@
 # Matias Alarcón
 
-## Desarrollador Fullstack Javascript Trainee
+## Desarrollador Fullstack Javascript
 
 ### Buenos Aires, Argentina
 
