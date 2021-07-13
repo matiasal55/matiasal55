@@ -16,6 +16,14 @@ Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas 
 
 ## Proyectos principales:
 
+## CMFP 2
+
+#### <b>Estado:</b> Finalizado Front - En construcción Back
+
+#### <b>Repositorio:</b> https://github.com/matiasal55/cmfp2-v2-front
+
+#### <b>Producción:</b> https://cmfp2.vercel.app/
+
 ## Ejercicio MERN Front Back
 
 #### <b>Estado:</b> Finalizado
@@ -23,12 +31,6 @@ Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas 
 #### <b>Repositorio:</b> https://github.com/matiasal55/ejercicio-mern-front-back
 
 #### <b>Producción:</b> https://ejercicio-mern-front-back.vercel.app/
-
-## CMFP 2
-
-#### <b>Estado:</b> En construcción
-
-#### <b>Repositorio:</b> https://github.com/matiasal55/cmfp2-mern
 
 ## Challenge React - NodeJS
 
