@@ -1,6 +1,6 @@
 # Matias Alarcón
 
-## Desarrollador Fullstack Javascript
+## Desarrollador Fullstack / Fullstack Developer
 
 ### Buenos Aires, Argentina
 
@@ -8,9 +8,17 @@
 
 Hola. Me llamo Matias, tengo 30 años y soy de Buenos Aires, Argentina.
 
-Me especializo en el lenguaje Javascript, más precisamente en el stack MERN (MongoDB - Express - ReactJS - NodeJS), aunque también desarrollé con Java, PHP, MySQL, HTML y CSS. Además poseo conocimientos acerca de traspiladores como Pug, Sass y Babel.
+Me especializo en el stack MERN (MongoDB - Express - ReactJS - NodeJS) y tengo conocimientos intermedios y trabajos realizados con Java y PHP.
 
-Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas por mi cuenta y realizo proyectos propios y para terceros.
+Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas por mi cuenta y desarrollo proyectos propios y para terceros.
+
+--
+
+Hi! I'm Matias. I'm 30 years old and I'm from Buenos Aires, Argentina.
+
+I specialize in MERN Stack and I have middle knowledge and work done with Java and PHP.
+
+I'm studying Web Development Technique and parallel I'm learning on my own and develop own projects and for thir parties.
 
 <hr>
 
@@ -18,31 +26,39 @@ Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas 
 
 ## CMFP 2
 
-#### <b>Estado:</b> Finalizado Front - En construcción Back
+<b>Status:</b>
 
-#### <b>Repositorio:</b> https://github.com/matiasal55/cmfp2-v2-front
+Primera etapa Finalizada - First stage finished
 
-#### <b>Producción:</b> https://cmfp2.vercel.app/
+<b>Repo:</b>
+
+Front: https://github.com/matiasal55/cmfp2-v2-front
+
+Back: https://github.com/matiasal55/cmfp2-v2-back-js
+
+<b>Deployed:</b> https://cmfp2.vercel.app/
 
 ## Ejercicio MERN Front Back
 
-#### <b>Estado:</b> Finalizado
+<b>Status:</b> Finalizado / Finished
 
-#### <b>Repositorio:</b> https://github.com/matiasal55/ejercicio-mern-front-back
+<b>Repo:</b> https://github.com/matiasal55/ejercicio-mern-front-back
 
-#### <b>Producción:</b> https://ejercicio-mern-front-back.vercel.app/
+<b>Deployed:</b> https://ejercicio-mern-front-back.vercel.app/
 
 ## Challenge React - NodeJS
 
-#### <b>Estado:</b> En corrección
+<b>Status:</b> En corrección / In correction
 
-#### <b>Repositorio:</b> https://github.com/matiasal55/alkemychallengejs
+<b>Repo:</b> https://github.com/matiasal55/alkemychallengejs
+
+<b>Deployed:</b> Not Deployed
 
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasal55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stack principal:
+## Stack principal / Main stack:
 
   <div>
         <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -52,7 +68,7 @@ Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas 
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </div>
 
-### Conocimientos intermedios:
+### Conocimientos intermedios / Middle knowledge:
 
   <div>
      <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -66,7 +82,7 @@ Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas 
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </div>
   
-  ### Aprendiendo:
+  ### Aprendiendo / Learning:
 
   <div>
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -74,13 +90,13 @@ Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas 
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   </div>
 
-### Actualmente programo en:
+### Actualmente desarrollo en / Now I'm developing with:
 
   <div>
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   </div>
 
-#### Con:
+#### Con / And:
 
   <div>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -89,7 +105,7 @@ Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas 
 
 <hr>
 
-### Links externos:
+### Links externos / External Links:
 
 <div>
   <a href="https://www.linkedin.com/in/matiasalarcon/">
