@@ -32,6 +32,12 @@ Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas 
 
 #### <b>Producción:</b> https://ejercicio-mern-front-back.vercel.app/
 
+## Challenge React - NodeJS
+
+#### <b>Estado:</b> En corrección
+
+#### <b>Repositorio:</b> https://github.com/matiasal55/alkemychallengejs
+
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasal55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
