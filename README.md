@@ -46,14 +46,6 @@ Back: https://github.com/matiasal55/cmfp2-v2-back-js
 
 <b>Deployed:</b> https://ejercicio-mern-front-back.vercel.app/
 
-## Challenge React - NodeJS
-
-<b>Status:</b> En corrección / In correction
-
-<b>Repo:</b> https://github.com/matiasal55/alkemychallengejs
-
-<b>Deployed:</b> Not Deployed
-
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasal55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
