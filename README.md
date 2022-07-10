@@ -1,6 +1,6 @@
 # Matias Alarcón
 
-## Desarrollador Web / Web Developer
+## Desarrollador Web Fullstack
 
 ### Buenos Aires, Argentina
 
@@ -22,27 +22,31 @@ Hola. Te doy la bienvenida a mi perfil 😁.
 
 ## Proyectos principales:
 
-## CMFP 2
+**Fixture Mundial 2022:** aplicación de gestión de resultados de los partidos del Mundial Qatar 2022. Creado como Challenge para quien recién se inicia en desarrollo. En proceso.
 
-<b>Status:</b>
+**CMFP 2:** sitio de práctica para una institución ubicada en Buenos Aires, Argentina. Realizado con el stack MERN (MongoDB, Express, React y NodeJS).
 
-Primera etapa Finalizada - First stage finished
+**Repo:** Front: https://github.com/matiasal55/cmfp2-v2-front / Back: https://github.com/matiasal55/cmfp2-v2-back-js
 
-<b>Repo:</b>
+**Deployed:** https://cmfp2.vercel.app/
 
-Front: https://github.com/matiasal55/cmfp2-v2-front
+**Ejercicio MERN Front Back:** challenge solicitado por una empresa para postular a una oferta laboral. Luego que fui desestimado, el proyecto fue mejorado. Realizado con el stack MERN (MongoDB, Express, React y NodeJS).
 
-Back: https://github.com/matiasal55/cmfp2-v2-back-js
+**Repo:** https://github.com/matiasal55/ejercicio-mern-front-back
 
-<b>Deployed:</b> https://cmfp2.vercel.app/
+**Deployed:** https://ejercicio-mern-front-back.vercel.app/
+    
+## Proyectos académicos:
 
-## Ejercicio MERN Front Back
+**Aperture Academy:** sitio web de cursos. Realizado a nivel básico con HTML, CSS y Javascript.
 
-<b>Status:</b> Finalizado / Finished
+**Transportes La Matanza:** aplicación de administración de flota de camiones. Realizado con PHP, usando Pug como template engine y consumiendo la API de Here Maps para simular la ubicación de algún camión. Datos almacenado de manera online en MariaDB.
 
-<b>Repo:</b> https://github.com/matiasal55/ejercicio-mern-front-back
+**Cocina en casa:** aplicación de administración de reservas para restaurantes. Desarrollado en C# usando .NET y SQL Server.
 
-<b>Deployed:</b> https://ejercicio-mern-front-back.vercel.app/
+**Veterinaria:** aplicación de gestión de turnos de servicios para mascotas. Incluye veterinaria, peluquería y paseo. Desarrollado con Java usando Spring Framework y MySQL. Además se usaron APIs como MercadoPago y HERE Maps.
+
+**Blockbuster Cine:** aplicación de ventas de entradas para cine y artículos de Candy Bar y gestión de películas. Desarrollado con el stack MEAN (MongoDB, Express, Angular y NodeJS).
 
 <hr>
 
