@@ -6,17 +6,17 @@
 
 <hr>
 
-Hola. Me llamo Matias, tengo 30 años y soy de Buenos Aires, Argentina.
+Hola. Me llamo Matias, tengo 31 años y soy de Buenos Aires, Argentina.
 
-Tengo conocimientos intermedios y trabajos realizados con Javascript, React, NodeJS, Java y PHP.
+Tengo conocimientos intermedios y trabajos realizados con Javascript, React, NodeJS, Java y C#.
 
 Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas por mi cuenta y desarrollo proyectos propios y para terceros.
 
 --
 
-Hi! I'm Matias. I'm 30 years old and I'm from Buenos Aires, Argentina.
+Hi! I'm Matias. I'm 31 years old and I'm from Buenos Aires, Argentina.
 
-I have middle knowledge and work done with MERN Stack, Java and PHP.
+I have middle knowledge and work done with MERN Stack, Java and C#.
 
 I'm studying Web Development Technique and parallel I'm learning on my own and develop own projects and for thir parties.
 
@@ -71,8 +71,7 @@ Back: https://github.com/matiasal55/cmfp2-v2-back-js
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
         <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/> 
         <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-        <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-
+        <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </div>
 
 ### Databases:
@@ -81,14 +80,7 @@ Back: https://github.com/matiasal55/cmfp2-v2-back-js
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
   </div>
-  
-  ### Aprendiendo / Now I'm learning:
 
-  <div>
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  </div>
 <hr>
 
 ### Links externos / External Links:
