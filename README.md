@@ -22,31 +22,31 @@ Hola. Te doy la bienvenida a mi perfil 😁.
 
 ## Proyectos principales:
 
-**Fixture Mundial 2022:** aplicación de gestión de resultados de los partidos del Mundial Qatar 2022. Creado como Challenge para quien recién se inicia en desarrollo. En proceso.
+- **Fixture Mundial 2022:** aplicación de gestión de resultados de los partidos del Mundial Qatar 2022. Creado como Challenge para quien recién se inicia en desarrollo. En proceso.
 
-**CMFP 2:** sitio de práctica para una institución ubicada en Buenos Aires, Argentina. Realizado con el stack MERN (MongoDB, Express, React y NodeJS).
+- **CMFP 2:** sitio de práctica para una institución ubicada en Buenos Aires, Argentina. Realizado con el stack MERN (MongoDB, Express, React y NodeJS).
 
-**Repo:** Front: https://github.com/matiasal55/cmfp2-v2-front / Back: https://github.com/matiasal55/cmfp2-v2-back-js
+    - **Repo:** Front: https://github.com/matiasal55/cmfp2-v2-front / Back: https://github.com/matiasal55/cmfp2-v2-back-js
 
-**Deployed:** https://cmfp2.vercel.app/
+    - **Deployed:** https://cmfp2.vercel.app/
 
-**Ejercicio MERN Front Back:** challenge solicitado por una empresa para postular a una oferta laboral. Luego que fui desestimado, el proyecto fue mejorado. Realizado con el stack MERN (MongoDB, Express, React y NodeJS).
+- **Ejercicio MERN Front Back:** challenge solicitado por una empresa para postular a una oferta laboral. Luego que fui desestimado, el proyecto fue mejorado. Realizado con el stack MERN (MongoDB, Express, React y NodeJS).
 
-**Repo:** https://github.com/matiasal55/ejercicio-mern-front-back
+    - **Repo:** https://github.com/matiasal55/ejercicio-mern-front-back
 
-**Deployed:** https://ejercicio-mern-front-back.vercel.app/
+    - **Deployed:** https://ejercicio-mern-front-back.vercel.app/
     
 ## Proyectos académicos:
 
-**Aperture Academy:** sitio web de cursos. Realizado a nivel básico con HTML, CSS y Javascript.
+- **Aperture Academy:** sitio web de cursos. Realizado a nivel básico con HTML, CSS y Javascript.
 
-**Transportes La Matanza:** aplicación de administración de flota de camiones. Realizado con PHP, usando Pug como template engine y consumiendo la API de Here Maps para simular la ubicación de algún camión. Datos almacenado de manera online en MariaDB.
+- **Transportes La Matanza:** aplicación de administración de flota de camiones. Realizado con PHP, usando Pug como template engine y consumiendo la API de Here Maps para simular la ubicación de algún camión. Datos almacenado de manera online en MariaDB.
 
-**Cocina en casa:** aplicación de administración de reservas para restaurantes. Desarrollado en C# usando .NET y SQL Server.
+- **Cocina en casa:** aplicación de administración de reservas para restaurantes. Desarrollado en C# usando .NET y SQL Server.
 
-**Veterinaria:** aplicación de gestión de turnos de servicios para mascotas. Incluye veterinaria, peluquería y paseo. Desarrollado con Java usando Spring Framework y MySQL. Además se usaron APIs como MercadoPago y HERE Maps.
+- **Veterinaria:** aplicación de gestión de turnos de servicios para mascotas. Incluye veterinaria, peluquería y paseo. Desarrollado con Java usando Spring Framework y MySQL. Además se usaron APIs como MercadoPago y HERE Maps.
 
-**Blockbuster Cine:** aplicación de ventas de entradas para cine y artículos de Candy Bar y gestión de películas. Desarrollado con el stack MEAN (MongoDB, Express, Angular y NodeJS).
+- **Blockbuster Cine:** aplicación de ventas de entradas para cine y artículos de Candy Bar y gestión de películas. Desarrollado con el stack MEAN (MongoDB, Express, Angular y NodeJS).
 
 <hr>
 
