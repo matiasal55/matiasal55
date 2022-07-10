@@ -6,19 +6,17 @@
 
 <hr>
 
-Hola. Me llamo Matias, tengo 31 años y soy de Buenos Aires, Argentina.
+Hola. Te doy la bienvenida a mi perfil 😁.
 
-Tengo conocimientos intermedios y trabajos realizados con Javascript, React, NodeJS, Java y C#.
+🙋 Me llamo Matias y tengo 31 años.
 
-Estoy realizando la Tecnicatura en Desarrollo Web y paralelamente aprendo cosas por mi cuenta y desarrollo proyectos propios y para terceros.
+💻 Soy Desarrollador Junior. Trabajo con distintos lenguajes y herramientas de programación, como Java, Javascript, C#, React y NodeJS.
 
---
+🔨 Actualmente estoy trabajando en Globons como Desarrollador Fullstack en un proyecto con C# y ReactJS.
 
-Hi! I'm Matias. I'm 31 years old and I'm from Buenos Aires, Argentina.
+💪 Aprendo fácilmente cualquier tecnología propuesta, me gusta trabajar en equipo y soy autosuficiente y organizado.
 
-I have middle knowledge and work done with MERN Stack, Java and C#.
-
-I'm studying Web Development Technique and parallel I'm learning on my own and develop own projects and for thir parties.
+📚 Estoy realizando la Tecnicatura en Desarrollo Web y además soy autodidacta.
 
 <hr>
 
@@ -50,43 +48,43 @@ Back: https://github.com/matiasal55/cmfp2-v2-back-js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasal55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Habilidades / Hard skills:
+## Habilidades:
 
 ### Frontend
 
 <div>
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-    <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="50" />
+
 </div>
 
 ### Backend:
 
   <div>    
-        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-        <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/> 
-        <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-        <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50" />
   </div>
 
 ### Databases:
 
   <div>
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" />
   </div>
 
 <hr>
 
-### Links externos / External Links:
+### Links externos:
 
 <div>
   <a href="https://www.linkedin.com/in/matiasalarcon/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
     </a>
 </div>
