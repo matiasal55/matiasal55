@@ -20,36 +20,6 @@ Hola. Te doy la bienvenida a mi perfil 😁.
 
 <hr>
 
-## Proyectos principales:
-
-- **Fixture Mundial 2022:** aplicación de gestión de resultados de los partidos del Mundial Qatar 2022. Creado como Challenge para quien recién se inicia en desarrollo. En proceso.
-
-- **CMFP 2:** sitio de práctica para una institución ubicada en Buenos Aires, Argentina. Realizado con el stack MERN (MongoDB, Express, React y NodeJS).
-
-    - **Repo:** Front: https://github.com/matiasal55/cmfp2-v2-front / Back: https://github.com/matiasal55/cmfp2-v2-back-js
-
-    - **Deployed:** https://cmfp2.vercel.app/
-
-- **Ejercicio MERN Front Back:** challenge solicitado por una empresa para postular a una oferta laboral. Luego que fui desestimado, el proyecto fue mejorado. Realizado con el stack MERN (MongoDB, Express, React y NodeJS).
-
-    - **Repo:** https://github.com/matiasal55/ejercicio-mern-front-back
-
-    - **Deployed:** https://ejercicio-mern-front-back.vercel.app/
-    
-## Proyectos académicos:
-
-- **Aperture Academy:** sitio web de cursos. Realizado a nivel básico con HTML, CSS y Javascript.
-
-- **Transportes La Matanza:** aplicación de administración de flota de camiones. Realizado con PHP, usando Pug como template engine y consumiendo la API de Here Maps para simular la ubicación de algún camión. Datos almacenado de manera online en MariaDB.
-
-- **Cocina en casa:** aplicación de administración de reservas para restaurantes. Desarrollado en C# usando .NET y SQL Server.
-
-- **Veterinaria:** aplicación de gestión de turnos de servicios para mascotas. Incluye veterinaria, peluquería y paseo. Desarrollado con Java usando Spring Framework y MySQL. Además se usaron APIs como MercadoPago y HERE Maps.
-
-- **Blockbuster Cine:** aplicación de ventas de entradas para cine y artículos de Candy Bar y gestión de películas. Desarrollado con el stack MEAN (MongoDB, Express, Angular y NodeJS).
-
-<hr>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasal55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades:
@@ -75,12 +45,20 @@ Hola. Te doy la bienvenida a mi perfil 😁.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50" />
   </div>
+  
+### Web3:
+
+  <div>    
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" />
+  </div>
 
 ### Databases:
 
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" />
   </div>
 
 <hr>
