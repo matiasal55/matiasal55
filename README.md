@@ -1,6 +1,6 @@
 # Matias Alarcón
 
-## Desarrollador Web Fullstack
+## Desarrollador Fullstack
 
 ### Buenos Aires, Argentina
 
