@@ -10,13 +10,15 @@ Hola. Te doy la bienvenida a mi perfil 😁.
 
 🙋 Me llamo Matias y tengo 31 años.
 
-💻 Soy Desarrollador Junior. Trabajo con distintos lenguajes y herramientas de programación, como Java, Javascript, C#, React y NodeJS.
+💻 Soy Desarrollador Fullstack Junior. Me especializo en Javascript tanto del lado del back (NodeJS, MongoDB, Express) como del front (VanillaJS, React). Además trabajo con otros lenguajes como Java y C#.
 
 🔨 Actualmente estoy trabajando en Globons como Desarrollador Fullstack en un proyecto con C# y ReactJS.
 
 💪 Aprendo fácilmente cualquier tecnología propuesta, me gusta trabajar en equipo y soy autosuficiente y organizado.
 
-📚 Estoy realizando la Tecnicatura en Desarrollo Web y además soy autodidacta.
+🎓 Recibido de la Tecnicatura en Desarrollo Web.
+
+📒 Autodidacta. Actualmente estoy aprendiendo acerca de Web3.
 
 <hr>
 
