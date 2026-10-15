@@ -8,7 +8,7 @@
 
 Hola. Te doy la bienvenida a mi perfil 😁.
 
-🙋 Me llamo Matias y tengo 31 años.
+🙋 Me llamo Matias.
 
 💻 Soy Desarrollador Fullstack Junior. Me especializo en Javascript tanto del lado del back (NodeJS, MongoDB, Express) como del front (VanillaJS, React). Además trabajo con otros lenguajes como Java y C#.
 
